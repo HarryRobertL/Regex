@@ -1,0 +1,27 @@
+[
+  {
+    "id": "matt_belsize_flat_after_road",
+    "address1": "138 Belsize Road, flat 2",
+    "address2": "",
+    "town": "LONDON",
+    "county": "United Kingdom",
+    "postcode": "NW3 4BA",
+    "expected": {
+      "buildingNo": "138",
+      "street": "Belsize Road",
+      "abodeNo": "flat 2"
+    }
+  },
+  {
+    "id": "matt_westcroft_stray_comma",
+    "address1": "56, Westcroft Close",
+    "address2": "",
+    "town": "LONDON",
+    "county": "UK",
+    "postcode": "SW1A 1AA",
+    "expected": {
+      "buildingNo": "56",
+      "street": "Westcroft Close"
+    }
+  }
+]

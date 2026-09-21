@@ -1,0 +1,327 @@
+[
+  {
+    "id": "matt_belsize_flat_after_road",
+    "group": "matt",
+    "address1": "138 Belsize Road, flat 2",
+    "address2": "",
+    "town": "LONDON",
+    "county": "United Kingdom",
+    "postcode": "NW3 4BA"
+  },
+  {
+    "id": "matt_westcroft_stray_comma",
+    "group": "matt",
+    "address1": "56, Westcroft Close",
+    "address2": "",
+    "town": "LONDON",
+    "county": "UK",
+    "postcode": "SW1A 1AA"
+  },
+  {
+    "id": "branton_house",
+    "group": "listed",
+    "address1": "Branton House 3 200 Becontree Avenue"
+  },
+  {
+    "id": "queens_drive_enderby",
+    "group": "listed",
+    "address1": "28a Queens Drive Enderby"
+  },
+  {
+    "id": "cairnview_crescent",
+    "group": "listed",
+    "address1": "9 Cairnview Crescent"
+  },
+  {
+    "id": "oundle_road",
+    "group": "listed",
+    "address1": "286 Oundle Road"
+  },
+  {
+    "id": "fulvens",
+    "group": "listed",
+    "address1": "1 Fulvens"
+  },
+  {
+    "id": "flat2_old_bakery",
+    "group": "listed",
+    "address1": "Flat 2 The Old Bakery 11 Dollar Street"
+  },
+  {
+    "id": "bridge_street_pontyberem",
+    "group": "listed",
+    "address1": "22 Bridge Street Pontyberem"
+  },
+  {
+    "id": "reginald_road",
+    "group": "listed",
+    "address1": "300 Reginald Road"
+  },
+  {
+    "id": "park_terrace_tondu",
+    "group": "listed",
+    "address1": "46 Park Terrace Tondu"
+  },
+  {
+    "id": "woodlands_lodge_quainton",
+    "group": "listed",
+    "address1": "Woodlands Lodge Quainton"
+  },
+  {
+    "id": "muirfield_kirkby",
+    "group": "listed",
+    "address1": "18 Muirfield Close Kirkby-in-Ashfield"
+  },
+  {
+    "id": "red_kite_drive",
+    "group": "listed",
+    "address1": "18 Red Kite Drive"
+  },
+  {
+    "id": "harrington_street",
+    "group": "listed",
+    "address1": "18 Harrington Street"
+  },
+  {
+    "id": "pykenham_way_hadleigh",
+    "group": "listed",
+    "address1": "65 Pykenham Way Hadleigh"
+  },
+  {
+    "id": "gladstone_street",
+    "group": "listed",
+    "address1": "46 Gladstone Street"
+  },
+  {
+    "id": "apartment47_olive_court",
+    "group": "listed",
+    "address1": "Apartment 47 Olive Court"
+  },
+  {
+    "id": "green_street_as_sent",
+    "group": "listed",
+    "note": "houseName Olive Court, flat Apartment 47 — street added after first send",
+    "address1": "4 Green Street"
+  },
+  {
+    "id": "green_street_reconstructed_pal",
+    "group": "reconstructed",
+    "note": "flat + houseName + street from PAL fields",
+    "address1": "Apartment 47 Olive Court 4 Green Street"
+  },
+  {
+    "id": "markland_avenue_clowne",
+    "group": "listed",
+    "address1": "5a Markland Avenue Clowne"
+  },
+  {
+    "id": "flat7_erato_court",
+    "group": "listed",
+    "address1": "Flat 7 Erato Court 42 Burton Close"
+  },
+  {
+    "id": "hempsted_lane",
+    "group": "listed",
+    "address1": "117 Hempsted Lane"
+  },
+  {
+    "id": "marston_avenue",
+    "group": "listed",
+    "address1": "18a Marston Avenue"
+  },
+  {
+    "id": "westview_close",
+    "group": "listed",
+    "address1": "45 Westview Close"
+  },
+  {
+    "id": "felindre_as_sent",
+    "group": "listed",
+    "note": "houseName Canol Cottages",
+    "address1": "Felindre"
+  },
+  {
+    "id": "felindre_reconstructed_pal",
+    "group": "reconstructed",
+    "address1": "Canol Cottages Felindre"
+  },
+  {
+    "id": "heol_defail_as_sent",
+    "group": "listed",
+    "note": "houseName Coynant Farm Park — street added after first send",
+    "address1": "Heol Defail"
+  },
+  {
+    "id": "heol_defail_reconstructed_pal",
+    "group": "reconstructed",
+    "address1": "Coynant Farm Park Heol Defail"
+  },
+  {
+    "id": "petersfield",
+    "group": "listed",
+    "address1": "4 petersfield"
+  },
+  {
+    "id": "princess_drive",
+    "group": "listed",
+    "address1": "10 princess drive"
+  },
+  {
+    "id": "kestrel_road",
+    "group": "listed",
+    "address1": "128 Kestrel Road"
+  },
+  {
+    "id": "craigmount",
+    "group": "listed",
+    "address1": "36 Craigmount"
+  },
+  {
+    "id": "flat5_ford_farm",
+    "group": "listed",
+    "address1": "Flat 5, Ford Farm Chudleigh Knighton Chudleigh"
+  },
+  {
+    "id": "blackthorn_way",
+    "group": "listed",
+    "address1": "40 blackthorn way"
+  },
+  {
+    "id": "saint_goerge_square",
+    "group": "listed",
+    "address1": "11 saint goerge square"
+  },
+  {
+    "id": "witham_gardens",
+    "group": "listed",
+    "address1": "13 Witham Gardens"
+  },
+  {
+    "id": "fia_lane",
+    "group": "listed",
+    "address1": "7 Fia Lane"
+  },
+  {
+    "id": "pal_witham_gardens",
+    "group": "prod_pal",
+    "address1": "13 Witham Gardens"
+  },
+  {
+    "id": "pal_flat_6",
+    "group": "prod_pal",
+    "address1": "Flat 6"
+  },
+  {
+    "id": "pal_orchard_way",
+    "group": "prod_pal",
+    "address1": "3 Orchard Way"
+  },
+  {
+    "id": "pal_eastcroft_court",
+    "group": "prod_pal",
+    "address1": "12 Eastcroft Court"
+  },
+  {
+    "id": "pal_house_number_only_8",
+    "group": "prod_pal",
+    "address1": "8"
+  },
+  {
+    "id": "pal_myreside_street",
+    "group": "prod_pal",
+    "address1": "364 Myreside Street"
+  },
+  {
+    "id": "pal_flat_7",
+    "group": "prod_pal",
+    "address1": "Flat 7"
+  },
+  {
+    "id": "pal_delery_drive",
+    "group": "prod_pal",
+    "address1": "20 Delery Drive"
+  },
+  {
+    "id": "pal_bishops_way",
+    "group": "prod_pal",
+    "address1": "26 Bishops Way"
+  },
+  {
+    "id": "pal_craven_avenue",
+    "group": "prod_pal",
+    "address1": "31 Craven Avenue"
+  },
+  {
+    "id": "pal_mayberry_grange",
+    "group": "prod_pal",
+    "address1": "10 Mayberry Grange"
+  },
+  {
+    "id": "pal_warmwell_drive_as_sent",
+    "group": "prod_pal",
+    "note": "houseNumber 22",
+    "address1": "warmwell drive"
+  },
+  {
+    "id": "pal_warmwell_drive_reconstructed",
+    "group": "reconstructed",
+    "address1": "22 warmwell drive"
+  },
+  {
+    "id": "pal_braeside",
+    "group": "prod_pal",
+    "address1": "Braeside"
+  },
+  {
+    "id": "pal_bonsalls",
+    "group": "prod_pal",
+    "address1": "bonsalls"
+  },
+  {
+    "id": "pal_pelham_road_south_as_sent",
+    "group": "prod_pal",
+    "note": "houseNumber 26",
+    "address1": "pelham road south"
+  },
+  {
+    "id": "pal_pelham_road_south_reconstructed",
+    "group": "reconstructed",
+    "address1": "26 pelham road south"
+  },
+  {
+    "id": "pal_apartment_30",
+    "group": "prod_pal",
+    "address1": "Apartment 30"
+  },
+  {
+    "id": "pal_flat_15",
+    "group": "prod_pal",
+    "address1": "Flat 15"
+  },
+  {
+    "id": "pal_meretune_court",
+    "group": "prod_pal",
+    "address1": "meretune court"
+  },
+  {
+    "id": "pal_apartment_64",
+    "group": "prod_pal",
+    "address1": "Apartment 64"
+  },
+  {
+    "id": "pal_birkbeck_close_as_sent",
+    "group": "prod_pal",
+    "note": "houseNumber 22",
+    "address1": "birkbeck close"
+  },
+  {
+    "id": "pal_birkbeck_close_reconstructed",
+    "group": "reconstructed",
+    "address1": "22 birkbeck close"
+  },
+  {
+    "id": "pal_kingsnorth_court",
+    "group": "prod_pal",
+    "address1": "kingsnorth court"
+  }
+]
