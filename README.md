@@ -1,4 +1,4 @@
-# People's Partnership PoC
+# PoC
 
 Maps UK addresses into Creditsafe Connect **AML identitysearch** `addresses.current` (and optionally Verify).
 
